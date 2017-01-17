@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import-steps>
+
+ <import-step
+    id="gracehollogne.urban.dataimport-gracehollogneUrbawebImport"
+    handler="gracehollogne.urban.dataimport.importer.importGracehollogneUrbaweb"
+    title="Urbaweb import for Gracehollogne">
+  Urbaweb import for Gracehollogne
+ </import-step>
+
+</import-steps>
