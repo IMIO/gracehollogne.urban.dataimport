@@ -40,7 +40,7 @@
     <adapter
         for="gracehollogne.urban.dataimport.settings.GracehollogneImporterSettingsForm"
         factory=".settings.GracehollogneImporterFromImportSettings"
-        provides="imio.urban.dataimport.agorawin.interfaces.IAgorawinDataImporter"
+        provides="imio.urban.dataimport.access.interfaces.IAccessImporter"
     />
 
 </configure>
